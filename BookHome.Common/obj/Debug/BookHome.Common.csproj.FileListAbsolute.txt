@@ -1,0 +1,6 @@
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.Common\bin\Debug\BookHome.Common.dll
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.Common\bin\Debug\BookHome.Common.pdb
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.Common\obj\Debug\BookHome.Common.csproj.CoreCompileInputs.cache
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.Common\obj\Debug\BookHome.Common.dll
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.Common\obj\Debug\BookHome.Common.pdb
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.Common\obj\Debug\BookHome.Common.csprojAssemblyReference.cache

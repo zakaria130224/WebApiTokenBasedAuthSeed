@@ -1,0 +1,16 @@
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\BookHome.DependencyInjection.dll
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\BookHome.DependencyInjection.pdb
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\BookHome.Core.dll
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\BookHome.Infrastracture.dll
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\Ninject.dll
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\EntityFramework.dll
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\BookHome.Core.pdb
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\BookHome.Infrastracture.pdb
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\BookHome.Infrastracture.dll.config
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\Ninject.xml
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\bin\Debug\EntityFramework.xml
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\obj\Debug\BookHome.DependencyInjection.csprojAssemblyReference.cache
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\obj\Debug\BookHome.DependencyInjection.csproj.CoreCompileInputs.cache
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\obj\Debug\BookHome.DependencyInjection.csproj.CopyComplete
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\obj\Debug\BookHome.DependencyInjection.dll
+D:\WorkStation\Application Source\BookHomeWeb\BookHome.DependencyInjection\obj\Debug\BookHome.DependencyInjection.pdb
