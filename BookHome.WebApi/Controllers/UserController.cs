@@ -5,7 +5,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
+using System.Web;
 using System.Web.Http;
+using System.Web.Http.Results;
 
 namespace BookHome.WebApi.Controllers
 {
@@ -17,19 +19,69 @@ namespace BookHome.WebApi.Controllers
         {
             this.userService = userService;
         }
-        [Authorize]
+
         [HttpGet]
-        [Route("GetUsers")]
-        public IEnumerable<User> GetUsers()
+        [Route("GetAll")]
+        public IHttpActionResult GetAll()
         {
-            return userService.GetAllUser().ToList();
+            try
+            {
+                var result = userService.GetAllUser().ToList();
+
+                return Ok(new { success = true, data = result });
+            }
+            catch (Exception ex)
+            {
+                return Ok(new { success = false, errorMessage = ex.Message });
+            }
         }
-        [Authorize]
+
         [HttpPost]
-        [Route("InsertUser")]
-        public User InsertUser(User user)
+        [Route("Insert")]
+        public IHttpActionResult Insert(User user)
         {
-            return userService.Insert(user);
+            try
+            {
+                var result = userService.Insert(user);
+
+                return Ok(new { success = true, data = result });
+            }
+            catch (Exception ex)
+            {
+                return Ok(new { success = false, errorMessage = ex.Message });
+            }
+        }
+
+        [HttpPut]
+        [Route("Update")]
+        public IHttpActionResult Update(User user)
+        {
+            try
+            {
+                var result = userService.Update(user);
+
+                return Ok(new { success = true, data = result });
+            }
+            catch (Exception ex)
+            {
+                return Ok(new { success = false, errorMessage = ex.Message });
+            }
+        }
+
+        [HttpDelete]
+        [Route("Delete")]
+        public IHttpActionResult Delete(int Id)
+        {
+            try
+            {
+                userService.Delete(Id);
+
+                return Ok(new { success = true, data = true });
+            }
+            catch (Exception ex)
+            {
+                return Ok(new { success = false, errorMessage = ex.Message });
+            }
         }
     }
 }
