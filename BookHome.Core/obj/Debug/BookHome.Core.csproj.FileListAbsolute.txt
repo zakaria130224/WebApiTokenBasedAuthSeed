@@ -4,3 +4,9 @@ D:\WorkStation\Application Source\BookHomeWeb\BookHome.Core\obj\Debug\BookHome.C
 D:\WorkStation\Application Source\BookHomeWeb\BookHome.Core\obj\Debug\BookHome.Core.dll
 D:\WorkStation\Application Source\BookHomeWeb\BookHome.Core\obj\Debug\BookHome.Core.pdb
 D:\WorkStation\Application Source\BookHomeWeb\BookHome.Core\obj\Debug\BookHome.Core.csprojAssemblyReference.cache
+D:\Git Repos\WebApiTokenBasedAuthSeed\BookHome.Core\bin\Debug\BookHome.Core.dll
+D:\Git Repos\WebApiTokenBasedAuthSeed\BookHome.Core\bin\Debug\BookHome.Core.pdb
+D:\Git Repos\WebApiTokenBasedAuthSeed\BookHome.Core\obj\Debug\BookHome.Core.csprojAssemblyReference.cache
+D:\Git Repos\WebApiTokenBasedAuthSeed\BookHome.Core\obj\Debug\BookHome.Core.csproj.CoreCompileInputs.cache
+D:\Git Repos\WebApiTokenBasedAuthSeed\BookHome.Core\obj\Debug\BookHome.Core.dll
+D:\Git Repos\WebApiTokenBasedAuthSeed\BookHome.Core\obj\Debug\BookHome.Core.pdb
